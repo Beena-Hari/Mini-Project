@@ -17,5 +17,5 @@ addresses the cold start problem (providing accurate recommendations when having
 users or items) by focusing on the order of interactions of the user and preferences observed across the
 user base to provide relevant suggestions. It pays attention to both what user have liked for a long time
 and what user likes right now, to provide recommendations that fit user interests at any given moment.
-For Further Queries  contact  : beena.hari626623@gmail.com
+For Further Queries  contact  : beena.hari626623@gmail.com,
                                 ruchita.bhogi@gmail.com
